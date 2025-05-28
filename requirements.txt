@@ -1,0 +1,6 @@
+streamlit
+fitz
+requests
+langchain
+sentence-transformers
+faiss-cpu
