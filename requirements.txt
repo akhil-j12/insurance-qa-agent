@@ -1,6 +1,6 @@
 streamlit
-fitz
 requests
+PyMuPDF
+faiss-cpu
 langchain
 sentence-transformers
-faiss-cpu
