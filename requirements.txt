@@ -3,4 +3,5 @@ requests
 PyMuPDF
 faiss-cpu
 langchain
+langchain-community
 sentence-transformers
